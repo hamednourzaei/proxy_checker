@@ -20,5 +20,5 @@ This script verifies if proxies are working by sending HTTP requests to a test U
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/proxy-checker.git
+   git clone https://github.com/hamednourzaei/proxy-checker.git
    cd proxy-checker
