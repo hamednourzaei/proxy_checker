@@ -35,7 +35,7 @@ Test URLs: You can modify the testUrls array to add or remove test URLs for prox
 Running the Script
 Run the script by executing the following command:
 
-    ```bash
+    
 
      node proxy_checker.js
 ## Output
